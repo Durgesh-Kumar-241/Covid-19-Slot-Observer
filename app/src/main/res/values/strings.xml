@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid 19 Slot Observer</string>
+    <string name="channel_name">Covid 19</string>
+    <string name="channel_description">Alert</string>
+</resources>

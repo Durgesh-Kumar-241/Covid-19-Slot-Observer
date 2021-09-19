@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <integer-array name="age_groups">
+       <item>18</item>
+       <item>45</item>
+   </integer-array>
+
+
+</resources>

@@ -1,0 +1,41 @@
+{"centers":
+    [
+      {"center_id":548522,
+        "name":"Ballia Trama Center-01",
+        "address":"District Hospital Ballia",
+        "state_name":"Uttar Pradesh",
+        "district_name":"Ballia",
+        "block_name":"Ballia Urban",
+        "pincode":277001,
+        "lat":25,"long":84,
+        "from":"09:00:00","to":"16:00:00",
+        "fee_type":"Free",
+        "sessions":
+        [
+          {"session_id":"3a3ca800-d13f-4968-952a-b9bcac0ed1bb","date":"13-09-2021","available_capacity":0,"min_age_limit":18,"max_age_limit":44,"allow_all_age":false,"vaccine":"COVISHIELD","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":0
+          }
+        ]
+      },
+      {"center_id":568075,"name":"Ballia Trama Center-02","address":"District Hospital Ballia","state_name":"Uttar Pradesh","district_name":"Ballia","block_name":"Ballia Urban","pincode":277001,"lat":25,"long":83,"from":"09:00:00","to":"16:00:00","fee_type":"Free","sessions":[{"session_id":"9d13536e-515f-4469-ae64-a492def63144","date":"13-09-2021","available_capacity":22,"min_age_limit":45,"allow_all_age":false,"vaccine":"COVISHIELD","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":22}]},
+      {"center_id":588320,"name":"KAJIPURA URBAN PHC-01","address":"KAJIPURA URBAN PHC NEAR KAJIPURA MASJID BALLIA","state_name":"Uttar Pradesh","district_name":"Ballia","block_name":"Ballia Urban","pincode":277001,"lat":25,"long":84,"from":"09:00:00","to":"16:00:00","fee_type":"Free","sessions":[{"session_id":"2a4c0aa8-6c87-453f-8ddd-1fcbb525b39c","date":"13-09-2021","available_capacity":0,"min_age_limit":18,"max_age_limit":44,"allow_all_age":false,"vaccine":"COVAXIN","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":0},{"session_id":"c97f283a-1111-43b5-aecd-85958568b3e2","date":"13-09-2021","available_capacity":0,"min_age_limit":45,"allow_all_age":false,"vaccine":"COVAXIN","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":0}]},
+      {"center_id":562524,"name":"District Women Hospital-01","address":"District Women Hospita","state_name":"Uttar Pradesh","district_name":"Ballia","block_name":"Ballia Urban","pincode":277001,"lat":25,"long":84,"from":"09:00:00","to":"16:00:00","fee_type":"Free","sessions":[{"session_id":"6be6ed0f-5480-4e24-bafa-f0d3f782c4eb","date":"13-09-2021","available_capacity":0,"min_age_limit":18,"max_age_limit":44,"allow_all_age":false,"vaccine":"COVISHIELD","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":0}]},
+      {"center_id":588324,"name":"BEDUA URBAN PHC-02","address":"BEDUABALLIA","state_name":"Uttar Pradesh","district_name":"Ballia","block_name":"Ballia Urban","pincode":277001,"lat":0,"long":0,"from":"09:00:00","to":"16:00:00","fee_type":"Free","sessions":[{"session_id":"198990a3-add4-458a-b8d9-2bd223300fc5","date":"13-09-2021","available_capacity":0,"min_age_limit":18,"allow_all_age":true,"vaccine":"COVAXIN","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":0}]},
+      {"center_id":548592,
+        "name":"District Women Hospital-02",
+        "address":"District Women Hospita Ballia",
+        "state_name":"Uttar Pradesh",
+        "district_name":"Ballia",
+        "block_name":"Ballia Urban",
+        "pincode":277001,
+        "lat":25,
+        "long":84,
+        "from":"09:00:00",
+        "to":"16:00:00",
+        "fee_type":"Free",
+        "sessions":
+        [
+          {"session_id":"7245d32d-e335-4b13-a506-e0af2fe6aebe","date":"13-09-2021","available_capacity":38,"min_age_limit":45,"allow_all_age":false,"vaccine":"COVISHIELD","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"],"available_capacity_dose1":0,"available_capacity_dose2":38}
+        ]
+      }
+    ]
+}
